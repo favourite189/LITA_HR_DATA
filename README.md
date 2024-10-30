@@ -39,3 +39,4 @@ They are 8 columns in the data
    
  ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20090937.png)
  ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20091322.png)
+ ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20091456.png)
