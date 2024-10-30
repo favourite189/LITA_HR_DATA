@@ -37,4 +37,4 @@ They are 8 columns in the data
 -  **DAILY ROUTINUE**
 -  **TRAINING TIME LASTYEAR**
    
- 
+ ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20090937.png)
