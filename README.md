@@ -49,6 +49,12 @@ They are 39 columns in the data
 -  **JOB SATISFACTION**
 -  **JOB ROLE**
 -  **TRAINING TIME LASTYEAR**
+
+**Data cleaning**
+- using the first row as headers
+- check my column profile,column quality and column distribution
+
+### visualization using powerBi
    
  ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20090937.png)
  ![image alt](https://github.com/favourite189/LITA_HR_DATA/blob/main/Screenshot%202024-10-30%20091322.png)
